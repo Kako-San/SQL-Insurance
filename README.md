@@ -21,6 +21,7 @@ SQL
 │   ├── Insurance_Fraud.csv
 │   └── Medical_Cost.csv
 ├── Main
+├── Model
 ├── Queries
 ├── Utiles
 ├── .gitignore                  #(Ignored)
