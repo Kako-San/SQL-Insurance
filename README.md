@@ -16,14 +16,14 @@ This Repository serves as my documentation and project tracking for practicing m
 ```bash
 
 SQL
-├── .venv/          #(Ignored)
-├── Datasets        #(Ignored)
-│   ├── AIC.csv
-│   └── MCP.csv
+├── .venv/                      #(Ignored)
+├── Datasets                    #(Ignored)
+│   ├── Insurance_Fraud.csv
+│   └── Medical_Cost.csv
 ├── Main
 ├── Queries
 ├── Utiles
-├── .gitignore      #(Ignored)
+├── .gitignore                  #(Ignored)
 ├── README.md
 └── requirements.txt
 
